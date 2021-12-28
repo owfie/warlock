@@ -1,0 +1,14 @@
+name: PantheonSuite
+version: 1.0
+author: fie
+main: me.fie.pantheon.Main
+description: First test.
+api-version: 1.13
+
+commands:
+  warlock:
+    usage: /warlock <create> <mapname> <name> <maxplayers>
+    description:
+  warlockdev:
+    usage: /warlockdev <cw/lw/dw/round>
+    description: Command for Warlock developer tools.
